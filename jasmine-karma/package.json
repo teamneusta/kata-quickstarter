@@ -1,0 +1,13 @@
+{
+  "name": "jasmine-karma-quickstarter",
+  "version": "0.0.1",
+  "description": "A JavaScript kata Quickstarter with Jasmine and Karma",
+  "private": true,
+  "devDependencies": {
+    "karma": "~0.12.21",
+    "karma-jasmine": "~0.1.5",
+    "karma-firefox-launcher": "~0.1.3"
+  },
+  "author": "Ole Rößner",
+  "license": "MIT"
+}
