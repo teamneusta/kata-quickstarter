@@ -1,0 +1,17 @@
+{
+    "name"             : "basster/phpunit_kata_quickstart",
+    "description"      : "Quickstart package for a phpunit kata",
+    "minimum-stability": "stable",
+    "authors"          : [
+        {
+            "name" : "Ole Rößner",
+            "email": "oroessner@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
