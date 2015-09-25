@@ -14,9 +14,9 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-        {pattern: 'test/lib/jasmine-1.3.0/jasmine.js', watched:true, served: true, included: false},
-        //'js/*.js',
-        'test/spec/*spec.js'
+        {pattern: 'node_modules/karma-jasmine/lib/jasmine.js', watched:false, served: true, included: false},
+        'js/*.js',
+        'spec/*spec.js'
     ],
 
 
