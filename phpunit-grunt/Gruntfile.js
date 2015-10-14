@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 			},
 			options: {
 				bin: 'vendor/bin/phpunit',
-				bootstrap: 'bootstrap.php',
+				bootstrap: 'vendor/autoload.php',
 				colors: true
 			}
 		},
