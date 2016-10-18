@@ -1,11 +1,16 @@
-Wofür?
+Why?
 ------
-In diesem Repo finden sich Kickstart Projekte um schnell und einfach eine Entwicklungsumgebung für eine Code-Kata erstellen zu können.
+In this repo, you find several projects, to kickstart a [code kata](http://codekata.com/) quick and easy.
 
-Achtung
+What?
+------
+- C# with [NUnit](http://www.nunit.org/)
+- JavaScript with [Jasmine](http://jasmine.github.io/) and [Karma](https://karma-runner.github.io)
+- JavaScript with [qUnit](https://qunitjs.com/) and [Karma](https://karma-runner.github.io)
+- PHP with [PhpUnit](https://phpunit.de/) and [Grunt](http://gruntjs.com/)
+- PHP with [PhpUnit](https://phpunit.de/) and [phpunit-testrunner](https://www.npmjs.com/package/phpunit-testrunner)
+
+How?
 -------
-Bitte checkt nur Änderungen an den Kickstarter Projekten selber ein. Keine Dateien aus den Katas selber!
-
-Wie bei einer Kata üblich, wird der Ordner nach der Kata wieder gelöscht, so bleibt das Repo sauber!
-
-Danke für Eure Mithilfe! :)
+Each project should hold its own README.md with instructions, how to setup the project. Use package managers, 
+like composer and/or npm, to speed up setup process.

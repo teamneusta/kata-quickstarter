@@ -2,12 +2,9 @@
   "name": "phpunit_kata_quickstart",
   "version": "1.0.0",
   "description": "PHPUnit Test Kickstarter",
-  "repository": {
-    "type": "git",
-    "url": "https://Basster@bitbucket.org/Basster/phpunit_kata_quickstart.git"
-  },
   "author": "Ole Rößner",
   "license": "MIT",
+  "private": true,
   "dependencies": {
     "phpunit-testrunner": "0.0.2"
   }
