@@ -14,7 +14,6 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-        {pattern: 'node_modules/karma-jasmine/lib/jasmine.js', watched:false, served: true, included: false},
         'js/*.js',
         'spec/*spec.js'
     ],
@@ -56,7 +55,7 @@ module.exports = function(config) {
     // - Safari (only Mac)
     // - PhantomJS
     // - IE (only Windows)
-    browsers: ['Firefox'],
+    browsers: ['PhantomJS'],
 
 
     // If browser does not capture in given timeout [ms], kill it
@@ -69,7 +68,7 @@ module.exports = function(config) {
 
       plugins: [
           'karma-jasmine',
-          'karma-firefox-launcher'
+          'karma-phantomjs-launcher'
       ]
   });
 };
