@@ -1,0 +1,21 @@
+{
+  "name": "basster/atoum_kata_quickstart",
+  "description": "Quickstart package for a atoum kata with PHP",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "": "test/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "atoum/atoum": "2.9.0-beta1",
+    "atoum/stubs": "2.x-dev"
+  }
+}
