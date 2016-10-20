@@ -15,3 +15,8 @@ How?
 -------
 Each project should hold its own README.md with instructions, how to setup the project. Use package managers, 
 like composer and/or npm, to speed up setup process.
+
+Contribute?
+-----------
+If you want to add a new kickstarter, fork this repository, make a new branch, add the new kickstarter in a separate
+folder, with the following naming schema `<language>-<test-framework>-[<testrunner>]` and send a pull request.
