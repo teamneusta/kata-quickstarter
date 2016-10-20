@@ -9,6 +9,7 @@ What?
 - JavaScript with [qUnit](https://qunitjs.com/) and [Karma](https://karma-runner.github.io)
 - PHP with [PhpUnit](https://phpunit.de/) and [Grunt](http://gruntjs.com/)
 - PHP with [PhpUnit](https://phpunit.de/) and [phpunit-testrunner](https://www.npmjs.com/package/phpunit-testrunner)
+- PHP with [atoum](http://atoum.org/) testing framework
 
 How?
 -------
