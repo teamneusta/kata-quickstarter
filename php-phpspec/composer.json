@@ -1,0 +1,20 @@
+{
+    "name": "basster/phpspec_kata_quickstart",
+    "description": "Quickstart package for a phpspec kata",
+    "type": "project",
+    "require-dev": {
+        "phpspec/phpspec": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ole Rößner",
+            "email": "o.roessner@neusta.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {"psr-0": {"": "src"}}
+}
