@@ -1,0 +1,4 @@
+[submodule "java-maven"]
+	path = java-maven
+	url = https://github.com/mrtnsp/mavenbasics.git
+	branch = low-level
