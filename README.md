@@ -11,6 +11,7 @@ What?
 - PHP with [PhpUnit](https://phpunit.de/) and [phpunit-testrunner](https://www.npmjs.com/package/phpunit-testrunner)
 - PHP with [atoum](http://atoum.org/) testing framework
 - PHP with [phpspec](http://www.phpspec.net/) testing framework
+- Java with [junit](http://junit.org/) and [hamcrest](http://hamcrest.org/) as a submodule. Thx to [mrtnsp](https://github.com/mrtnsp).
 
 How?
 -------
