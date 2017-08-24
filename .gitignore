@@ -13,6 +13,9 @@
 # .idea/sqlDataSources.xml
 # .idea/dynamic.xml
 
+## composer stuff
+composer.lock
+
 ## File-based project format
 *.ipr
 *.iml
