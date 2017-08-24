@@ -1,5 +1,5 @@
 {
-    "name": "basster/phpspec_kata_quickstart",
+    "name": "teamneusta/phpspec_kata_quickstart",
     "description": "Quickstart package for a phpspec kata",
     "type": "project",
     "require-dev": {

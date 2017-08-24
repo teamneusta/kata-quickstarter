@@ -1,7 +1,8 @@
 {
-  "name": "neusta/phpunit_kata_quickstart",
+  "name": "teamneusta/phpunit_kata_quickstart",
   "description": "Quickstart package for a phpunit kata",
   "minimum-stability": "stable",
+  "license": "MIT",
   "authors": [
     {
       "name": "Ole Rößner",
