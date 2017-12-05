@@ -7,11 +7,12 @@ What?
 - C# with [NUnit](http://www.nunit.org/)
 - JavaScript with [Jasmine](http://jasmine.github.io/) and [Karma](https://karma-runner.github.io)
 - JavaScript with [qUnit](https://qunitjs.com/) and [Karma](https://karma-runner.github.io)
+- ECMAScript6 with [Jasmine](http://jasmine.github.io/) and [Karma](https://karma-runner.github.io)
 - PHP with [PhpUnit](https://phpunit.de/) and [Grunt](http://gruntjs.com/)
 - PHP with [PhpUnit](https://phpunit.de/) and [phpunit-testrunner](https://www.npmjs.com/package/phpunit-testrunner)
 - PHP with [atoum](http://atoum.org/) testing framework
 - PHP with [phpspec](http://www.phpspec.net/) testing framework
-- Java with [junit](http://junit.org/) and [hamcrest](http://hamcrest.org/) as a submodule. Thx to [mrtnsp](https://github.com/mrtnsp).
+- Java with [junit](http://junit.org/) and [AssertJ](http://joel-costigliola.github.io/assertj/) as a submodule. Thx to [mrtnsp](https://github.com/mrtnsp).
 
 How?
 -------
