@@ -1,0 +1,25 @@
+{
+  "name": "es6-jasmine-karma",
+  "version": "1.0.0",
+  "description": "A ECMAScript2016 Kata Quickstarter with Jasmine and Karma",
+  "main": "index.js",
+  "author": "o.roessner@neusta.de",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.1",
+    "karma-webpack": "^2.0.6",
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "test": "karma start"
+  }
+}
