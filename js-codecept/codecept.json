@@ -1,0 +1,17 @@
+{
+  "tests": "./tests/*.spec.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "WebDriverIO": {
+      "url": "http://localhost",
+      "browser": "chrome"
+    }
+  },
+  "include": {
+    "I": "./codecept/steps_file.js"
+  },
+  "bootstrap": false,
+  "mocha": {},
+  "name": "js-codecept-kickstarter"
+}
