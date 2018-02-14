@@ -1,0 +1,14 @@
+{
+  "name": "js-codecept-kickstarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "codeceptjs": "^1.1.4",
+    "webdriverio": "^4.10.2"
+  },
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  }
+}
