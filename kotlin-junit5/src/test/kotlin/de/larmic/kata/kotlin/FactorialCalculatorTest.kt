@@ -13,7 +13,7 @@ internal class FactorialCalculatorTest {
     fun factorial() {
         val calculator = FactorialCalculator()
 
-        assertThat(calculator.factorial(0L)).isEqualTo(1L)
+        assertThat(calculator.factorial(0)).isEqualTo(1L)
 
         assertAll("all remaining tests",
                 Executable { assertThat(calculator.factorial(1)).isEqualTo(1L) },
