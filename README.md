@@ -13,7 +13,8 @@ What?
 - PHP with [PhpUnit](https://phpunit.de/) and [phpunit-testrunner](https://www.npmjs.com/package/phpunit-testrunner)
 - PHP with [atoum](http://atoum.org/) testing framework
 - PHP with [phpspec](http://www.phpspec.net/) testing framework
-- Java with [junit](http://junit.org/) and [AssertJ](http://joel-costigliola.github.io/assertj/) as a submodule. Thx to [mrtnsp](https://github.com/mrtnsp).
+- Java with [junit 5](http://junit.org/) and [AssertJ](http://joel-costigliola.github.io/assertj/) as a submodule. Thx to [mrtnsp](https://github.com/mrtnsp).
+- Kotlin on JVM with [junit 5](http://junit.org/) and [AssertJ](http://joel-costigliola.github.io/assertj/) as a submodule. 
 
 How?
 -------
