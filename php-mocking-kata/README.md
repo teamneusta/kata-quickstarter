@@ -15,7 +15,7 @@ e.g. [http://codingdojo.org/kata/RomanNumerals/]
 The main task in this kata is to use mock-objects to produce valid test-cases.
 A good point to start is the RandoriServiceInterface.php. The class which implements this interface holds just one method called 'transform', taking a string and returning a string.
 This method should behave as follows:<br>
-- comma-seperated numbers in input-string will be summed up
-- result of calculation is translated into a roman representation
+- plus-seperated numbers in input-string will be summed up, e.g. '2+3'
+- result of calculation is translated into a roman representation, e.g 'V'
 
  
