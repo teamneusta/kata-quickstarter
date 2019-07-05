@@ -8,11 +8,8 @@ namespace RealLife\Calculations;
  */
 interface ArabicConverterInterface
 {
-    /// <summary>
-    /// Converts the given arabic <paramref name="number"/> to its roman representation.
-    /// </summary>
-    /// <exception cref="ArgumentException">Is thrown when <paramref name="number"/> is less than 1 or greater than 3.888.</exception>
-    /// <remarks>
+    /// Converts the given arabic number to its roman representation.
+    /// An Exception is thrown when number is less than 1 or greater than 3888.
     /// 1       I
     /// 5       V
     /// 10      X
@@ -28,6 +25,5 @@ interface ArabicConverterInterface
     /// Note: Only the next small number can be subtracted, so IC is not valid.
     ///
     /// 99 = XCIX (90+9)
-    /// </remarks>
     public function toRoman(int $number): string;
 }
